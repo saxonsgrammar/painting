@@ -1,0 +1,17 @@
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\bin\Debug\net5.0-windows\рисование кнопками.exe
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\bin\Debug\net5.0-windows\рисование кнопками.deps.json
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\bin\Debug\net5.0-windows\рисование кнопками.runtimeconfig.json
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\bin\Debug\net5.0-windows\рисование кнопками.runtimeconfig.dev.json
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\bin\Debug\net5.0-windows\рисование кнопками.dll
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\bin\Debug\net5.0-windows\ref\рисование кнопками.dll
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\bin\Debug\net5.0-windows\рисование кнопками.pdb
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\obj\Debug\net5.0-windows\рисование_кнопками.Form1.resources
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\obj\Debug\net5.0-windows\рисование кнопками.csproj.GenerateResource.cache
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\obj\Debug\net5.0-windows\рисование кнопками.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\obj\Debug\net5.0-windows\рисование кнопками.AssemblyInfoInputs.cache
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\obj\Debug\net5.0-windows\рисование кнопками.AssemblyInfo.cs
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\obj\Debug\net5.0-windows\рисование кнопками.csproj.CoreCompileInputs.cache
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\obj\Debug\net5.0-windows\рисование кнопками.dll
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\obj\Debug\net5.0-windows\ref\рисование кнопками.dll
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\obj\Debug\net5.0-windows\рисование кнопками.pdb
+C:\Users\Mcintosh\Downloads\WinForms\рисование кнопками\obj\Debug\net5.0-windows\рисование кнопками.genruntimeconfig.cache
